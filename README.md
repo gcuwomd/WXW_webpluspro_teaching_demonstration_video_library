@@ -4,14 +4,6 @@
 
 # 视频列表
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117080842046421&bvid=BV1zJgV6AEyS&cid=41005024326&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117080842046421&bvid=BV1zJgV6AEyS&cid=41005024326&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117080842046421&bvid=BV1zJgV6AEyS&cid=41005024326&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117080842046421&bvid=BV1zJgV6AEyS&cid=40833057934&p=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
 [000_主页准备工作_哔哩哔哩_bilibili（有些问题导致没有声音）](https://www.bilibili.com/video/BV1zJgV6AEyS?vd_source=55a848cb7621175fec618b7f9a84ea8f%5E%5E&spm_id_from=333.788.videopod.episodes)
 
 [001_导航栏适配_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zJgV6AEyS?vd_source=55a848cb7621175fec618b7f9a84ea8f%5E&spm_id_from=333.788.videopod.episodes&p=2)
